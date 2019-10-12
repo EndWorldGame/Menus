@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\MenuLibrary\MenuSandbox\bin\Debug\netcoreapp2.1\MenuSandbox.deps.json
+C:\Users\Lucas\source\repos\MenuLibrary\MenuSandbox\bin\Debug\netcoreapp2.1\MenuSandbox.runtimeconfig.json
+C:\Users\Lucas\source\repos\MenuLibrary\MenuSandbox\bin\Debug\netcoreapp2.1\MenuSandbox.runtimeconfig.dev.json
+C:\Users\Lucas\source\repos\MenuLibrary\MenuSandbox\bin\Debug\netcoreapp2.1\MenuSandbox.dll
+C:\Users\Lucas\source\repos\MenuLibrary\MenuSandbox\bin\Debug\netcoreapp2.1\MenuSandbox.pdb
+C:\Users\Lucas\source\repos\MenuLibrary\MenuSandbox\bin\Debug\netcoreapp2.1\MenuLibrary.dll
+C:\Users\Lucas\source\repos\MenuLibrary\MenuSandbox\bin\Debug\netcoreapp2.1\MenuLibrary.pdb
+C:\Users\Lucas\source\repos\MenuLibrary\MenuSandbox\obj\Debug\netcoreapp2.1\MenuSandbox.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\MenuLibrary\MenuSandbox\obj\Debug\netcoreapp2.1\MenuSandbox.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\MenuLibrary\MenuSandbox\obj\Debug\netcoreapp2.1\MenuSandbox.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\MenuLibrary\MenuSandbox\obj\Debug\netcoreapp2.1\MenuSandbox.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\MenuLibrary\MenuSandbox\obj\Debug\netcoreapp2.1\MenuSandbox.csproj.CopyComplete
+C:\Users\Lucas\source\repos\MenuLibrary\MenuSandbox\obj\Debug\netcoreapp2.1\MenuSandbox.dll
+C:\Users\Lucas\source\repos\MenuLibrary\MenuSandbox\obj\Debug\netcoreapp2.1\MenuSandbox.pdb

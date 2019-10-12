@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.452
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MenuLibrary", "..\..\..\source\repos\MenuLibrary\MenuLibrary\MenuLibrary.csproj", "{2C7ABD8E-4389-4522-BB16-9D62960D405F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MenuLibrary", "MenuLibrary\MenuLibrary.csproj", "{2C7ABD8E-4389-4522-BB16-9D62960D405F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuSandbox", "..\..\..\source\repos\MenuLibrary\MenuSandbox\MenuSandbox.csproj", "{93853FA7-934E-4A07-AD96-4CEB70CFAE60}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuSandbox", "MenuSandbox\MenuSandbox.csproj", "{93853FA7-934E-4A07-AD96-4CEB70CFAE60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

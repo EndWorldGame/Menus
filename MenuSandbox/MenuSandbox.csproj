@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MenuLibrary">
+      <HintPath>..\MenuLibrary\bin\Debug\netcoreapp2.1\MenuLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

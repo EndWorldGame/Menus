@@ -1,0 +1,9 @@
+C:\Users\Lucas\source\repos\MenuLibrary\MenuLibrary\bin\Debug\netcoreapp2.1\MenuLibrary.deps.json
+C:\Users\Lucas\source\repos\MenuLibrary\MenuLibrary\bin\Debug\netcoreapp2.1\MenuLibrary.dll
+C:\Users\Lucas\source\repos\MenuLibrary\MenuLibrary\bin\Debug\netcoreapp2.1\MenuLibrary.pdb
+C:\Users\Lucas\source\repos\MenuLibrary\MenuLibrary\obj\Debug\netcoreapp2.1\MenuLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\MenuLibrary\MenuLibrary\obj\Debug\netcoreapp2.1\MenuLibrary.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\MenuLibrary\MenuLibrary\obj\Debug\netcoreapp2.1\MenuLibrary.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\MenuLibrary\MenuLibrary\obj\Debug\netcoreapp2.1\MenuLibrary.dll
+C:\Users\Lucas\source\repos\MenuLibrary\MenuLibrary\obj\Debug\netcoreapp2.1\MenuLibrary.pdb
+C:\Users\Lucas\source\repos\MenuLibrary\MenuLibrary\obj\Debug\netcoreapp2.1\MenuLibrary.csprojAssemblyReference.cache
